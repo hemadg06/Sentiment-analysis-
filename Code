@@ -1,0 +1,16 @@
+[nltk_data] Downloading package punkt to /root/nltk_data...
+[nltk_data] Downloading package stopwords to /root/nltk_data...
+[nltk_data] Downloading package movie_reviews to /root/nltk_data...
+
+Accuracy: 0.8
+Most Informative Features
+         simpl        = True              pos : neg    =     12.6 : 1.0
+         excell        = True              pos : neg    =     11.3 : 1.0
+         boring        = True              neg : pos    =     10.0 : 1.0
+         interest      = False             pos : neg    =      9.5 : 1.0
+         waste         = True              neg : pos    =      8.5 : 1.0
+         enjoy         = True              pos : neg    =      8.0 : 1.0
+         dull          = True              neg : pos    =      7.9 : 1.0
+         beauti        = True              pos : neg    =      7.6 : 1.0
+         perform       = True              pos : neg    =      7.3 : 1.0
+         laugh         = True              pos : neg    =      7.0 : 1.0
